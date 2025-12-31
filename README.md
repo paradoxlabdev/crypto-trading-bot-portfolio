@@ -608,7 +608,7 @@ This documentation is licensed under [Creative Commons Attribution-NonCommercial
 ## <a id="contact"></a>👤 Contact
 
 For inquiries about this project or collaboration opportunities, please reach out via:
-- GitHub: [https://github.com/adamsosx/]
+- GitHub: [(https://github.com/paradoxlabdev)]
 
 
 ---
