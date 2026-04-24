@@ -1,0 +1,35 @@
+# Portfolio Repository - Git Ignore
+
+# Environment files (if any examples are added)
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (if any example logs are added)
+*.log
+logs/
+
+# Python (if any example scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
